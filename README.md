@@ -34,7 +34,7 @@ Analyze listening patterns across time, artists, and tracks to uncover behaviora
 
 ⚙️ Data Pipeline (KNIME)
 
-![KNIME](knime/screenshots/knime.png)
+![KNIME](knime/screenshot/knime.png)
 
 
 ⸻
