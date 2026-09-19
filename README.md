@@ -13,10 +13,10 @@ However, key questions remain:
 	•	Are popular tracks actually driving listening time?
 	•	How concentrated is listening across artists and tracks?
 
-👉 Without understanding these patterns, platforms risk:
-	•	Weak recommendation systems
-	•	Lower retention rates
-	•	Poor content targeting
+Without understanding these patterns, platforms may miss useful signals for:
+	•	Personalization
+	•	Engagement
+	•	Content targeting
 
 ⸻
 
@@ -109,7 +109,7 @@ Multiple analytical views created to analyze behavior from different angles.
 	•	Strong repeat behavior
 	•	Long-tail exploration exists
 
-👉 Shows loyalty + selective discovery
+👉 Shows repeat affinity + selective discovery
 
 ⸻
 
@@ -183,11 +183,11 @@ This project uses a personal dataset, which is not publicly uploaded.
 
 ⸻
 
-🚀 Business Impact
-	•	Improve recommendation systems
-	•	Increase user engagement
-	•	Optimize notification timing
-	•	Enable personalized experiences
+🚀 Potential Business Applications
+	•	Inform personalized recommendations
+	•	Identify engagement patterns
+	•	Explore notification timing
+	•	Support personalized experiences
 
 ⸻
 
@@ -200,5 +200,5 @@ This project uses a personal dataset, which is not publicly uploaded.
 
 📌 Final Takeaway
 
-Listening behavior is preference-driven, consistent, and repeat-focused rather than trend-driven.
+Listening behavior in this dataset is preference-driven, consistent and repeat-focused rather than strongly explained by popularity.
 
