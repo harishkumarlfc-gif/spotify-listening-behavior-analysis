@@ -303,28 +303,6 @@ Listening patterns remain fairly stable across days and months, with identifiabl
 
 ---
 
-# 📸 Dashboard Gallery
-
-### Overview
-![Overview](./powerbi/screenshots/overview.png)
-
-### Time Behavior
-![Time](./powerbi/screenshots/time.png)
-
-### Artist Behavior
-![Artist](./powerbi/screenshots/artist.png)
-
-### Track Behavior
-![Track](./powerbi/screenshots/track.png)
-
-### Behavioral Analysis
-![Behavior](./powerbi/screenshots/behavior.png)
-
-### Data Model
-![Schema](./powerbi/screenshots/schema.png)
-
----
-
 # 📁 Repository Structure
 
 ```text
